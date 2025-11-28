@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields. io/github/followers/ValteruGowtham?label=Followers&style=social)](https://github.com/ValteruGowtham)
-  [![GitHub stars](https://img.shields. io/github/stars/ValteruGowtham?label=Stars&style=social)](https://github.com/ValteruGowtham)
   
 </div>
 
