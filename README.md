@@ -1,10 +1,5 @@
 # Hi there! 👋 I'm Gowtham Valteru
 
-<div align="center">
-  
-  
-</div>
-
 ## 🚀 About Me
 
 AI & ML Engineer passionate about building intelligent systems and automation solutions. I specialize in Generative AI, Backend Development, and creating impactful machine learning projects.
@@ -19,22 +14,22 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields. io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C? style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields. io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img. shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields. io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img. shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### Backend Development
-![FastAPI](https://img.shields. io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -48,17 +43,36 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 
 ## 📊 Featured Projects
 
-### 🤖 AI & Machine Learning
-- **[Project Name 1](#)** - Gen AI application using LLMs and LangChain
-- **[Project Name 2](#)** - Computer Vision project with Deep Learning
-- **[Project Name 3](#)** - NLP-based automation solution
+### 🤖 Generative AI & RAG Systems
+- **[AI-Powered Video Interviewer Platform](https://github.com/ValteruGowtham/AI-Powered-Video-Interviewer-Platform)** - Intelligent video interview system with AI-driven assessment
+- **[AI-Powered Research Assistant (RAG System)](https://github.com/ValteruGowtham/AI-Powered-Research-Assistant-RAG-System)** - Retrieval-Augmented Generation system for research assistance
+- **[AI Interview Coach Web App](https://github.com/ValteruGowtham/AI-Interview-Coach-Web-App)** - Interactive AI coach for interview preparation
 
-### 🔧 Backend & Automation
-- **[Project Name 4](#)** - FastAPI-based REST API with PostgreSQL
-- **[Project Name 5](#)** - Python automation scripts for data processing
-- **[Project Name 6](#)** - Web scraping and data pipeline project
+### 🧠 Machine Learning & Predictive Analytics
+- **[Stock Price Prediction on Time Series Data](https://github.com/ValteruGowtham/Stock-Price-Prediction-on-Time-series-Data)** - Time series forecasting for stock market analysis
+- **[Housing Price Prediction](https://github.com/ValteruGowtham/Housing-Price-Prediction-using-Linear-Regression)** - Linear regression model for real estate valuation
+- **[Loan Payback Prediction](https://github.com/ValteruGowtham/Loan-Payback-Prediction)** - Credit risk assessment using ML algorithms
+- **[Crop and Fertilizers Recommendation](https://github.com/ValteruGowtham/Crop-and-Fertilizers-Recommendation)** - Agricultural recommendation system
 
-> 💡 *Check out my [repositories](https://github.com/ValteruGowtham?tab=repositories) for more projects! *
+### 🩺 Healthcare & Multimodal AI
+- **[Personalized AI Health Assistant](https://github.com/ValteruGowtham/Personalized-AI-Health-Assistant-Using-Multimodal-Machine-Learning)** - Multimodal ML-based health assistant
+
+### 🎯 NLP & Recommendation Systems
+- **[News Article Recommender](https://github.com/ValteruGowtham/News-Article-Recommender)** - Personalized content recommendation engine
+- **[Emotion Recognition from Social Media](https://github.com/ValteruGowtham/Emotion-recogination-using-social-media-content-)** - Sentiment analysis and emotion detection
+
+### 📊 Data Analytics & Clustering
+- **[Customer Segmentation using PCA](https://github.com/ValteruGowtham/Customer-Segmentation-using-PCA)** - Dimensionality reduction and clustering for customer insights
+
+### 🚀 Optimization & Algorithms
+- **[Dynamic Route Optimization for Delivery Systems](https://github.com/ValteruGowtham/Dynamic-Route-Optimization-for-Delivery-Systems)** - Real-time route planning and logistics optimization
+- **[Tic-Tac-Toe with AI (Minimax Algorithm)](https://github.com/ValteruGowtham/Tic-Tac-Toe-with-AI-Minimax-Algorithm-)** - Game AI implementation using Minimax
+
+### 💻 Software Development & Databases
+- **[SQL Projects](https://github.com/ValteruGowtham/SQL)** - Database management and query optimization
+- **[Student Record Management System](https://github.com/ValteruGowtham/Student-Record-Management-System-OOP-based)** - OOP-based management system
+
+> 💡 *Explore all [15+ repositories](https://github.com/ValteruGowtham?tab=repositories) showcasing AI/ML, optimization, and full-stack development!*
 
 ---
 
@@ -66,26 +80,40 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 
 ### 📈 Kaggle
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
+## 🏆 Achievements & Coding Platforms
 
-<!-- Replace with your actual Kaggle achievements -->
-- 🥇 **Competitions:** [Add your competition medals/ranks]
-- 📊 **Datasets:** [Add your dataset contributions]
-- 📓 **Notebooks:** [Add your notebook achievements]
-- **Current Rank:** [Add your Kaggle rank]
+<div align="center">
 
-### 💻 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+### 📈 Competitive Programming & Data Science
 
-<!-- Replace with your actual LeetCode stats -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourprofile? theme=dark&font=Ubuntu&ext=heatmap)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gowthamvalteru)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gowtham_valteru/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/gowtham01)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gowtham.valteru05)
 
-- **Problems Solved:** [Add your total count]
-- **Contest Rating:** [Add your rating]
-- **Global Ranking:** [Add your ranking]
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 💻 LeetCode Stats
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gowtham_valteru?theme=dark&font=Ubuntu&ext=activity)
+
+</div>
+
+- 🎯 **Problems Solved:** 300+
+- 🏅 **Contest Rating:** 1500+
+- 🏆 **Badges:** 50 Days Badge, 100 Days Badge, July LeetCode Challenge
+
+### 📊 Kaggle Achievements
+- 🥇 **Competitions:** Active Competitor
+- 🏅 **Badges:** Competitor, Playground Competitor, Python Coder
+- 📈 **Focus:** Machine Learning & Data Science Competitions
+
+### ⚡ HackerRank Achievements
+- 💡 Multiple certifications and problem-solving achievements
+- 🎖️ Strong performance across various domains
 
 <div align="center">
   
@@ -116,7 +144,14 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 <div align="center">
   
   ### 💡 "Building intelligent systems, one line of code at a time"
+## 🤝 Let's Connect! 
+
+<div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ValteruGowtham&color=blueviolet&style=flat-square)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-gamma-olive.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-valteru/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ValteruGowtham)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gowthamvalteru)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gowtham_valteru/)
   
 </div>
