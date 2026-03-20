@@ -62,6 +62,7 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 
 ### 🩺 Healthcare & Multimodal AI
 - **[Personalized AI Health Assistant](https://github.com/ValteruGowtham/Personalized-AI-Health-Assistant-Using-Multimodal-Machine-Learning)** - Multimodal ML-based health assistant
+- **[Vision-Language Grounding Agent](https://github.com/ValteruGowtham/Vision-Language-Grounding-Agent-Project)** - Vision-language grounding using YOLOv8 and CLIP for object detection aligned with natural language descriptions
 
 ### 🎯 NLP & Recommendation Systems
 - **[News Article Recommender](https://github.com/ValteruGowtham/News-Article-Recommender)** - Personalized content recommendation engine
@@ -74,11 +75,15 @@ AI & ML Engineer passionate about building intelligent systems and automation so
 - **[Dynamic Route Optimization for Delivery Systems](https://github.com/ValteruGowtham/Dynamic-Route-Optimization-for-Delivery-Systems)** - Real-time route planning and logistics optimization
 - **[Tic-Tac-Toe with AI (Minimax Algorithm)](https://github.com/ValteruGowtham/Tic-Tac-Toe-with-AI-Minimax-Algorithm-)** - Game AI implementation using Minimax
 
+### 🔗 Blockchain & Web3
+- **[Smart Attendance System with Blockchain](https://github.com/ValteruGowtham/smart_attendance_system_with_blockchain)** - Tamper-proof attendance tracking system combining face recognition with blockchain for secure, decentralized record management
+
 ### 💻 Software Development & Databases
+- **[ClearClaim](https://github.com/ValteruGowtham/ClearClaim)** - Full-stack claims management platform built with FastAPI (Python) and Next.js 14 (TypeScript), backed by MongoDB and Redis
 - **[SQL Projects](https://github.com/ValteruGowtham/SQL)** - Database management and query optimization
 - **[Student Record Management System](https://github.com/ValteruGowtham/Student-Record-Management-System-OOP-based)** - OOP-based management system
 
-> 💡 *Explore all [15+ repositories](https://github.com/ValteruGowtham?tab=repositories) showcasing AI/ML, optimization, and full-stack development!*
+> 💡 *Explore all [18+ repositories](https://github.com/ValteruGowtham?tab=repositories) showcasing AI/ML, optimization, blockchain, and full-stack development!*
 
 ---
 
